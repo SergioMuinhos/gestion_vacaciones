@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533843973693",
+    "project_id": "gestion-vacaciones",
+    "storage_bucket": "gestion-vacaciones.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533843973693:android:e5ff6a66ac91ac14bcfc54",
+        "android_client_info": {
+          "package_name": "com.example.gestion_vacaciones_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDevHC6AuTekLhuUVhlLAHpZ5W5hefalw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
